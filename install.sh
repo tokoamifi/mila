@@ -11,7 +11,7 @@ RED='\033[0;31m'
 NC='\033[0m'
 
 # Variabel Proyek
-REPO_URL="https://github.com/hokagelegend9999/Dor-Paket.git"
+REPO_URL="https://github.com/tokoamifi/mila.git"
 INSTALL_DIR="/opt/bot_ppob"
 SERVICE_NAME="bot-ppob.service"
 
